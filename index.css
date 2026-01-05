@@ -71,4 +71,7 @@ body {
   nav div span {
     font-size: 2rem !important;
   }
+  nav-header {
+    justify-content: center;
+  }
 }
